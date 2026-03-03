@@ -21,4 +21,9 @@ Preguntas Juan Cristiano
 2. Tengo experiencia con anterioridad corrigiendo problemas de otros compañeros en proyectos ya realizados, tambien cuneto con experiencia previa en proyectos de python y java, me interesa ir avanzando acorde al tiempo para no generar atrasos en la entregas y tener suficiente tiempo para corregir problemas en caso de haberlos
 
 3. Uno de los aspectos a mejorar es la comunicacion con mi equipo pues me ha llegado a pasar que a la hora de corregir errores cambio codigo de mis compañeros sin documentarlo bien o informales lo cual luego genera confusiones entre nosotros
- 
+
+Preguntas Andrés Hernández
+1. Me gustaría desempeñar el rol de diseñar la arquitectura del proyecto, definiendo el stack de tecnologías a usar, y la infraestructura donde realizar el despliegue.
+2. Tengo experiencia en trabajos colaborativos, liderando pequeños proyectos de software, diseño de bases de datos, creación de APIs con Springboot.
+3. De las principales características a mejorar es la gestión de tareas y la asignación de las mismas, además de llevar un buen seguimiento del desarrollo y avance de los proyectos.
+
