@@ -29,3 +29,41 @@ It centralizes documentation, assignments, diagrams, SQL scripts, and deliverabl
     └── ...
 
 ```
+
+# 📚 BiblioCyT
+
+An intelligent management system for the CyT Library at the National University of Colombia.
+
+---
+
+## 👥 Team
+**ByteBuilders UNAL**
+
+### Members
+- Johan José Muñoz Martínez – johmunozma@unal.edu.co
+- Tomás Alejandro Angarita Candia – tangaritac@unal.edu.co
+- Jorge Andres Hernandez Garcia – jorhernandezga@unal.edu.co
+- Juan Esteban Cristiano Rincon – jcristiano@unal.edu.co
+
+📩 Contact: jorhernandezga@unal.edu.co
+
+---
+
+## 🚀 Project Description
+
+**BiblioCyT** is a software application designed to optimize the management of books and study spaces within the CyT Library.
+
+It allows:
+
+- 📖 Book loan and copy status management
+- 🪑 Study space reservations
+- 🔔 Automatic due-date notifications
+- 📊 Administrative reporting and monitoring
+- 👤 Role-based user management
+
+The system aims to improve student experience and administrative efficiency through real-time control, automation, and resource traceability.
+
+---
+
+📌 Current Status: Requirements gathering phase.
+
